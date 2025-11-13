@@ -112,24 +112,24 @@ bauhaus-neo-modernism-research/
 
 ## 🎨 Visual Research Checklist
 
-- [ ] Find 20+ original Bauhaus examples (posters, furniture, architecture)
-- [ ] Collect 15+ neo-modernist websites (contemporary interpretations)
-- [ ] Screenshot key design systems (Material Design, IBM Carbon, etc.)
-- [ ] Document typography specimens (Bauhaus fonts + modern alternatives)
-- [ ] Color palette references (primary + systematic approaches)
-- [ ] Grid structure examples (Bauhaus layouts + responsive grids)
+- [x] Find 20+ original Bauhaus examples (posters, furniture, architecture)
+- [x] Collect 15+ neo-modernist websites (contemporary interpretations)
+- [x] Screenshot key design systems (Material Design, IBM Carbon, etc.)
+- [x] Document typography specimens (Bauhaus fonts + modern alternatives)
+- [x] Color palette references (primary + systematic approaches)
+- [x] Grid structure examples (Bauhaus layouts + responsive grids)
 
 ---
 
 ## 🛠️ Technical Research Checklist
 
-- [ ] Typography: Research Bauhaus typefaces (Universal, Architype, modern alternatives)
-- [ ] CSS Grid: Study modular grid systems for web
-- [ ] Color systems: HSL/HSB systematic color generation
-- [ ] Motion: Bauhaus kinetic principles in web animations
-- [ ] Accessibility: WCAG 2.1 AA compliance for modernist design
-- [ ] Performance: Lighthouse optimization for minimalist sites
-- [ ] Frameworks: Evaluate Eleventy, Astro, or pure HTML/CSS/JS
+- [x] Typography: Research Bauhaus typefaces (Universal, Architype, modern alternatives)
+- [x] CSS Grid: Study modular grid systems for web
+- [x] Color systems: HSL/HSB systematic color generation
+- [x] Motion: Bauhaus kinetic principles in web animations
+- [x] Accessibility: WCAG 2.1 AA compliance for modernist design
+- [x] Performance: Lighthouse optimization for minimalist sites
+- [x] Frameworks: Evaluate Eleventy, Astro, or pure HTML/CSS/JS
 
 ---
 
